@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 I am a Full-stack web developer with a passion for astronomy.<br>📧 Shoot an Email or add me on LinkedIn :)
+😎 I am a Front-End web developer with a passion for astronomy.<br>📧 Shoot an Email or add me on LinkedIn :)
 
 
 ## 🌐 Socials:
